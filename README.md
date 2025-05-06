@@ -47,7 +47,7 @@ Ce projet a pour objectif de détecter et de compter automatiquement le nombre d
 Pour récupérer le projet et installer les librairies :
 
 ```bash
-git clone https://github.com/Kemoory/Stairway-to-heaven.git
+git clone git@github.com:Kemoory/Stairway_to_data.git
 cd Stairway-to-heaven
 python3 -m venv env
 source env/bin/activate
